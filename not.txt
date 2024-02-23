@@ -1,6 +1,0 @@
-flex-wrap:nowrap varsayılan değeri flex-direction değerine göre öğeleri 
-yazı yazma yönünde (row) ya da blok-ekseni yönünde (column) tek hatlı olarak 
-öğelerin boyutları sıkıştırılarak hizalamaktadır. Bu akış değiştiemek isteniyorsa flex-wrap özelliği kullanılır.
-
-
-https://coderspace.io/blog/javascript-proje-fikirleri/
